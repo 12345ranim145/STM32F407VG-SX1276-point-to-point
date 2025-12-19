@@ -1,0 +1,16 @@
+../Core/Src/main.c:81:5:_write	1
+../Core/Src/main.c:87:6:LED_Init	1
+../Core/Src/main.c:92:6:LED_SetMode_Master	1
+../Core/Src/main.c:97:6:LED_SetConnection_Established	1
+../Core/Src/main.c:103:6:LED_SetConnection_Lost	1
+../Core/Src/main.c:109:6:LED_SetTransmission_Success	1
+../Core/Src/main.c:116:6:LED_SetTransmission_Failed	1
+../Core/Src/main.c:123:6:LED_Reset_Status	2
+../Core/Src/main.c:136:5:LoRa_Master_Init	2
+../Core/Src/main.c:178:5:LoRa_Master_CheckConnection	6
+../Core/Src/main.c:222:5:LoRa_Master_Transmit_Verified	8
+../Core/Src/main.c:285:6:LoRa_Reset_And_Reinit	2
+../Core/Src/main.c:310:5:main	7
+../Core/Src/main.c:425:6:SystemClock_Config	3
+../Core/Src/main.c:471:13:MX_GPIO_LEDs_Init	1
+../Core/Src/main.c:493:6:Error_Handler	1

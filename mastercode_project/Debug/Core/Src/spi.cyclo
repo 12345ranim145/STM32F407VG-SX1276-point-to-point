@@ -1,0 +1,5 @@
+../Core/Src/spi.c:27:6:MX_SPI2_Init	2
+../Core/Src/spi.c:65:6:HAL_SPI_MspInit	2
+../Core/Src/spi.c:125:6:HAL_SPI_MspDeInit	2
+../Core/Src/spi.c:155:6:SPI_NSS_Control	1
+../Core/Src/spi.c:165:19:SPI_Test_Communication	4
